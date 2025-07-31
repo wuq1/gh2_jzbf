@@ -1,0 +1,14 @@
+C:\Users\32035\Desktop\g2\jz\jz\bin\Debug\net7.0\jz.deps.json
+C:\Users\32035\Desktop\g2\jz\jz\bin\Debug\net7.0\jz.runtimeconfig.json
+C:\Users\32035\Desktop\g2\jz\jz\bin\Debug\net7.0\jz.rhp
+C:\Users\32035\Desktop\g2\jz\jz\bin\Debug\net7.0\jz.pdb
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\jz.csproj.AssemblyReference.cache
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\jz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\jz.AssemblyInfoInputs.cache
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\jz.AssemblyInfo.cs
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\jz.csproj.CoreCompileInputs.cache
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\jz.rhp
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\refint\jz.rhp
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\jz.pdb
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\jz.genruntimeconfig.cache
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net7.0\ref\jz.rhp

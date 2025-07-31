@@ -1,0 +1,9 @@
+C:\Users\32035\Desktop\g2\jz\jz\bin\Debug\net48\jz.rhp
+C:\Users\32035\Desktop\g2\jz\jz\bin\Debug\net48\jz.pdb
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net48\jz.csproj.AssemblyReference.cache
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net48\jz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net48\jz.AssemblyInfoInputs.cache
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net48\jz.AssemblyInfo.cs
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net48\jz.csproj.CoreCompileInputs.cache
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net48\jz.rhp
+C:\Users\32035\Desktop\g2\jz\jz\obj\Debug\net48\jz.pdb

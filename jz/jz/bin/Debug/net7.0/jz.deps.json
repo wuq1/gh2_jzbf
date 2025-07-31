@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "jz/1.0": {
+        "dependencies": {
+          "Grasshopper2": "2.0.9225-wip.14825"
+        },
+        "runtime": {
+          "jz.rhp": {}
+        }
+      },
+      "Grasshopper2/2.0.9225-wip.14825": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "RhinoCommon": "8.11.24254.15001",
+          "System.Collections.Immutable": "7.0.0"
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "RhinoCommon/8.11.24254.15001": {},
+      "System.Collections.Immutable/7.0.0": {}
+    }
+  },
+  "libraries": {
+    "jz/1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grasshopper2/2.0.9225-wip.14825": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-szeCaJzKjtNu1YMnNDgJmGxOud/QyPOdIAFBQ9zOvqNbw7dl5zGgwGZMtYn2wmcTPjHPyJGEjLyPoCwg3FLeZg==",
+      "path": "grasshopper2/2.0.9225-wip.14825",
+      "hashPath": "grasshopper2.2.0.9225-wip.14825.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "RhinoCommon/8.11.24254.15001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wgAfJniX4HPm/xPMHth9hrtqcNia5ULI+te8BVC3e6UfmF6Jz1iOmtCK5Elz3mItUMv7QfccxGLsjusMr6HHoQ==",
+      "path": "rhinocommon/8.11.24254.15001",
+      "hashPath": "rhinocommon.8.11.24254.15001.nupkg.sha512"
+    },
+    "System.Collections.Immutable/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dQPcs0U1IKnBdRDBkrCTi1FoajSTBzLcVTpjO4MBCMC7f4pDOIPzgBoX8JjG7X6uZRJ8EBxsi8+DR1JuwjnzOQ==",
+      "path": "system.collections.immutable/7.0.0",
+      "hashPath": "system.collections.immutable.7.0.0.nupkg.sha512"
+    }
+  }
+}
