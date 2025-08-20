@@ -1,0 +1,16 @@
+C:\Users\32035\Desktop\wu\g2ui\g2ui\bin\Debug\net7.0\g2ui.deps.json
+C:\Users\32035\Desktop\wu\g2ui\g2ui\bin\Debug\net7.0\g2ui.runtimeconfig.json
+C:\Users\32035\Desktop\wu\g2ui\g2ui\bin\Debug\net7.0\g2ui.rhp
+C:\Users\32035\Desktop\wu\g2ui\g2ui\bin\Debug\net7.0\g2ui.pdb
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\g2ui.csproj.AssemblyReference.cache
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\g2ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\g2ui.AssemblyInfoInputs.cache
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\g2ui.AssemblyInfo.cs
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\g2ui.csproj.CoreCompileInputs.cache
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\g2ui.rhp
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\refint\g2ui.rhp
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\g2ui.pdb
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\g2ui.genruntimeconfig.cache
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\ref\g2ui.rhp
+C:\Users\32035\Desktop\wu\g2ui\g2ui\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\32035\Desktop\wu\g2ui\g2ui\obj\Debug\net7.0\g2ui.csproj.Up2Date
